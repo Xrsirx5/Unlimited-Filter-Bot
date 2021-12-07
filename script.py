@@ -1,11 +1,13 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """Hey  <m>{}</m> !! 🤞
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I ᴀᴍ ᴊᴜsᴛ ᴀ ғɪʟᴛᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴡᴏʀᴋ ɪɴ 𝗧𝘃 𝗥𝗢𝗖𝗞𝗘𝗥'𝗦. 😉.
 
-See <i>/help</i> for commands and more details.</b>
+𝙔𝙤𝙪 𝘾𝙖𝙣'𝙩 𝘼𝙙𝙙 𝙈𝙚 𝙩𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 😸!! 
+
+🔹𝗧𝗘𝗔𝗠 𝗧𝗩 𝗥𝗢𝗖𝗞𝗘𝗥'𝗦🔹
+
 """
 
 
@@ -48,16 +50,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @Alifmuhammad_tg</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name</b> :  <s>Filter Bot</s>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b>  @Alifmuhammad_tg 
 
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
